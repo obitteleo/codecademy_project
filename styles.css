@@ -2,13 +2,12 @@ table,th,td {
     border: 1px solid black;
     text-align: left;
     border-color:blue;
- 
-     
     
+   
   }
-th{color:blue;
+th{
   border-style:dotted; 
-  
+  color:blue;
   }
 td {
   background-color: yellow;
@@ -18,3 +17,7 @@ td {
   font-family:  monospace;
   background-color: beige;
 }
+span{color:red;
+  
+}
+.declaration{text-align: center;}
